@@ -1,0 +1,59 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-image: url('https://static.vecteezy.com/system/resources/previews/002/196/776/non_2x/neon-effect-with-square-background-free-vector.jpg');
+ 
+  /* Mudei a imagem pra ver se dava certo <3 */
+  
+  background-color: ;
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color:white;
+  margin: 0 0 17px;
+}
+
+.page-notas{
+  color: White;
+}
+
+
+.page-subtitle {
+  color:white;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.inputs .input{
+    width: 20%;
+    height: 20px;
+    margin: 10px;
+    border-radius: 7px;
+    border: none;
+    outline: none;
+}
+.resposta {
+    color: white;
+    position: absolute;
+    right: 265px;
+    top: 515px;
+}
+/* mudei a imagem como quis, mudei a cor das letras e a posição pra encaixar na imagem <3 */
